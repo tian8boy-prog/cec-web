@@ -12,13 +12,12 @@ DESCRIPCION_TEXTO = (
     "consejos prácticos para acercarte más a Dios, superar los momentos difíciles y crecer cada "
     "día en Cristo, sin importar en qué etapa de tu camino te encuentres. Estás en el lugar correcto: "
     "esta casa es también tuya.")
-DESCRIPCION_LISTA_TITULO = "📖 En cada plática abordamos temas como:"
-DESCRIPCION_LISTA = [   # (tema, explicación)
-    ("Estudio bíblico", "la Palabra de Dios explicada con claridad, para aplicarla a tu vida diaria."),
-    ("Oración y devoción", "claves para cultivar una comunicación íntima y constante con Dios."),
-    ("Testimonios", "historias reales de lo que Dios hace en la vida de las personas."),
-    ("Vida en el Espíritu", "cómo vivir tu fe en la familia, el trabajo y los desafíos de cada día."),
-]
+DESCRIPCION_TEMAS = (
+    "En cada plática abordamos temas como estudio bíblico (la Palabra de Dios explicada con "
+    "claridad, para aplicarla a tu vida diaria), oración y devoción (claves para cultivar una "
+    "comunicación íntima y constante con Dios), testimonios (historias reales de lo que Dios hace "
+    "en la vida de las personas) y vida en el Espíritu (cómo vivir tu fe en la familia, el trabajo "
+    "y los desafíos de cada día).")
 
 # Spotify: abre tu podcast en Spotify > Compartir > Copiar enlace
 # El enlace se ve así: https://open.spotify.com/show/XXXXXXXX?si=...
