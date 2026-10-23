@@ -1,7 +1,7 @@
 :root{
   --fondo:#065dcf;            /* azul de la página */
   --texto:#ffffff; --texto-suave:#dbe8fb;
-  --acento:#cfe4ff;           /* celeste claro para detalles */
+  --acento:#ffffff;           /* blanco para detalles */
   --tarjeta:#ffffff; --tinta:#10244a; --azul:#065dcf;
 }
 *{box-sizing:border-box}
